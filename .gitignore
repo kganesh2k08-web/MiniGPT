@@ -20,7 +20,8 @@ venv/
 Thumbs.db
 
 
-.env
+
 __pycache__/
-*.pyc
-.streamlit/secrets.toml
+# Ignore secrets
+.env
+streamlit/secrets.toml
