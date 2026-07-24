@@ -182,7 +182,7 @@ for message in st.session_state.messages:
 # CHAT INPUT
 # =====================================================
 
-prompt = st.chat_input("Ask me anything...")
+prompt = st.chat_input("Ask me anything broo...")
 
 # Use suggested prompt if clicked
 if "prompt" in st.session_state:
@@ -255,4 +255,4 @@ with col2:
     st.caption("Powered by Gemini 3.5 Flash Lite")
 
 with col3:
-    st.caption("Built with ❤️ using Streamlit")
+    st.caption("Built with ❤️ Ganesh")
