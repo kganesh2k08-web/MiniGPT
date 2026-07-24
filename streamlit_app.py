@@ -255,4 +255,4 @@ with col2:
     st.caption("Powered by Gemini 3.5 Flash Lite")
 
 with col3:
-    st.caption("Built with ❤️ Ganesh")
+    st.caption("Built with ❤️ by Ganesh")
