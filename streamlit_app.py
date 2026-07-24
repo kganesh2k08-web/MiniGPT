@@ -107,7 +107,7 @@ st.markdown(
 st.markdown(
     """
 <div class="subtitle">
-Powered by Gemini 3.5 Flash Lite
+Powered by GPT
 </div>
 """,
     unsafe_allow_html=True,
@@ -252,7 +252,7 @@ with col1:
     st.caption("🤖 MiniGPT v1.0")
 
 with col2:
-    st.caption("Powered by Gemini 3.5 Flash Lite")
+    st.caption("Powered by GPT")
 
 with col3:
     st.caption("Built with ❤️ by Ganesh")
