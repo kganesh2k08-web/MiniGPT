@@ -252,7 +252,7 @@ with col1:
     st.caption("🤖 MiniGPT v1.0")
 
 with col2:
-    st.caption("Powered by GPT")
+    st.caption("")
 
 with col3:
     st.caption("Built with ❤️ by Ganesh")
