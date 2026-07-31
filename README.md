@@ -1,4 +1,4 @@
-# 🤖 MiniGPT v1.0
+# 🤖 MiniGPT 
 
 A modern AI chatbot built with **Python**, **Streamlit**, and **Google Gemini**.
 
@@ -83,9 +83,10 @@ streamlit run streamlit_app.py
 
 ## 📸 Preview
 
-(Add screenshots here after uploading to GitHub.)
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/cf711ada-5a2b-4967-bbc1-d949c4b97c79" />
+<img width="1916" height="1007" alt="image" src="https://github.com/user-attachments/assets/4fe1c1a9-5c19-4a55-a7ed-2b483d6df54a" />
 
----
+
 
 ## 👨‍💻 Author
 
